@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] How to implement OS
+- [ ] Debugging with the Grace Hopper Method
